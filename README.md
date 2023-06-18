@@ -1,2 +1,2 @@
-# homepage
+# My Homepage
 My own website
